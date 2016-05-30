@@ -1,3 +1,5 @@
 *.lock
 .vagrant
 .idea
+pkg/*
+!.keep
